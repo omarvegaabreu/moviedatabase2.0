@@ -1,3 +1,7 @@
+![alt text](assets/images/index.PNG)
+
+Link to URL: https://hardcore-carson-00df19.netlify.app/
+
 ### MOVIE DATABASE 2.0
 
 Javascript application which is used to add and search for your favorite movie. This application was built in order to understand the basic core concepts of JS Object literals: Manipulating Object elements, doing shallow copies of arrays by using the spread operator among others. This application also helped me to fully understand basic methods like: Array.filter(), Array.map(), for of loops, and assigning global variable as object keys and values.
